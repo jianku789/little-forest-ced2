@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "little-forest-ced2",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ef72f31e-dd14-478e-8855-73aaf624165e",
+      "database_name": "delicate-art-d032-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
